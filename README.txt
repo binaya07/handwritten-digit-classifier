@@ -1,1 +1,1 @@
-# Handwritten digit classifier using SVM
+#Handwritten digit classifier using SVM
