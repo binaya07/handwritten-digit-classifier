@@ -12,7 +12,7 @@
   <li>Removing conrast</li>
   <li>Resizing the image to fit 28*28 pixels</li>
  </ol>
- Load the model from pickle file and apply the model to predict the processed image.</p>
+ The model is loaded from pickle file and applied to predict the processed image.</p>
   <br>
 
 <img src = "7.jpg" height ="250" width="250">
